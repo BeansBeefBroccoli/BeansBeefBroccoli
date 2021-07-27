@@ -2,7 +2,8 @@
 
 <br>
 
-[![Views](https://img.shields.io/youtube/channel/views/UCIAsZd7B2snEfZPeIsapzhw?style=social)](https://youtube.com/channel/UCIAsZd7B2snEfZPeIsapzhw)&nbsp;&nbsp;&nbsp;[![Subscribers](https://img.shields.io/youtube/channel/subscribers/UCIAsZd7B2snEfZPeIsapzhw?style=social)](https://youtube.com/channel/UCIAsZd7B2snEfZPeIsapzhw)
+[![Subscribers](https://img.shields.io/youtube/channel/subscribers/UCIAsZd7B2snEfZPeIsapzhw?style=flat)](https://youtube.com/channel/UCIAsZd7B2snEfZPeIsapzhw)
+[![Views](https://img.shields.io/youtube/channel/views/UCIAsZd7B2snEfZPeIsapzhw?style=flat)](https://youtube.com/channel/UCIAsZd7B2snEfZPeIsapzhw)
 
 <br>
 

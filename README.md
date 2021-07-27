@@ -3,7 +3,7 @@
 <br>
 
 [![Followers](https://img.shields.io/github/followers/BeansBeefBroccoli)](https://github.com/BeansBeefBroccoli?tab=followers)
-[Stars](https://img.shields.io/github/stars/BeansBeefBroccoli)
+![Stars](https://img.shields.io/github/stars/BeansBeefBroccoli)
 [![Subscribers](https://img.shields.io/youtube/channel/subscribers/UCIAsZd7B2snEfZPeIsapzhw?style=flat)](https://youtube.com/channel/UCIAsZd7B2snEfZPeIsapzhw)
 [![Views](https://img.shields.io/youtube/channel/views/UCIAsZd7B2snEfZPeIsapzhw?style=flat)](https://youtube.com/channel/UCIAsZd7B2snEfZPeIsapzhw)
 

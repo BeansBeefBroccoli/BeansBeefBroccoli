@@ -12,7 +12,7 @@
 - 👋 Hi, I’m BeansBeefBroccoli.
 - 👀 I’m interested in *Minecraft* and *Minecraft* modifacations. (Resource Packs, Datapacks, and Mods, Forge or Fabric).
 - 💞️ I’m not looking to collaborate on anything right now, because I'm learnig to code, but maybe I'll change this soon.
-- 📫 How to reach me: [(Public)](https://github.com/BeansBeefBroccoli/BeansBeefBroccoli/discussions)
+- 📫 How to reach me: [Public](https://github.com/BeansBeefBroccoli/BeansBeefBroccoli/discussions), [Private]()
 
 [![Stats](https://github-readme-stats.vercel.app/api?username=BeansBeefBroccoli&show_icons=true&theme=dark)](https://github.com/BeansBeefBroccoli)
 

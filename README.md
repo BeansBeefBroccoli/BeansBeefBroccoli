@@ -1,12 +1,8 @@
 # About Me
 
-<br>
-
-[![GitHub](https://img.shields.io/github/followers/BeansBeefBroccoli)](https://github.com/BeansBeefBroccoli?tab=followers)
 [![Discord](https://img.shields.io/discord/862005828219174913?label=discord)](https://discord.gg/4yfdME5QjC)
+[![GitHub](https://img.shields.io/github/followers/BeansBeefBroccoli)](https://github.com/BeansBeefBroccoli?tab=followers)
 [![YouTube](https://img.shields.io/youtube/channel/subscribers/UCIAsZd7B2snEfZPeIsapzhw?style=flat)](https://youtube.com/channel/UCIAsZd7B2snEfZPeIsapzhw)
-
-<br>
 
 - :wave: Hi, I’m BeansBeefBroccoli.
 - :eyes: I’m interested in Minecraft. (Resource Packs, Datapacks, Mods)

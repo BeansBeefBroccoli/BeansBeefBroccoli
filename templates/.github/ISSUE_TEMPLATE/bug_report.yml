@@ -63,7 +63,7 @@ body:
     required: true
 - type: textarea
   attributes:
-    label: "Other Mod(s) Involved"
+    label: "Other Mods Involved"
     placeholder: "Type Here"
   validations:
     required: false

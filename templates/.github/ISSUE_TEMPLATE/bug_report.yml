@@ -2,20 +2,19 @@ name: Bug Report
 description: File a Bug Report
 labels: [bug]
 assignees:
-  - "-----" # Repo Owner
+  - "-----" # Mod Dev
 body:
 - type: markdown
   attributes:
     value: |
-      Before submitting a bug report, please make sure you have read and filled out this form entirely, and that:
-      - Your bug isn't a vanilla bug or another mod's bug
-      - Your issue isn't a duplicate (make sure to use the search function!)
-
-      **Don't forget to give your issue a descriptive title.** "It Crashes" isn't useful information, and it's annoying for the devs.
+      Before submitting a bug report, please make sure that:
+      - Your bug hasn't already been reported
+      - You've filled out this form to the best of your ability
+      - This issue has a descriptive title
+      - The bug isn't from vanilla or from another mod
 - type: dropdown
   attributes:
     label: "Operating System"
-    description: "Select the operating system(s) this bug occurs on."
     multiple: true
     options:
     - "Windows"
@@ -32,7 +31,7 @@ body:
     required: true
 - type: input
   attributes:
-    label: "----- Version" # Modloader
+    label: "----- Version" # Mod Loader
     placeholder: "Type Here"
   validations:
     required: true
@@ -42,44 +41,42 @@ body:
     placeholder: "Type Here"
   validations:
     required: true
-- type: input
+- type: dropdown
   attributes:
     label: "Singleplayer or Multiplayer"
-    placeholder: "Type Here"
+    options:
+    - "Singleplayer"
+    - "Multiplayer"
   validations:
     required: true
 - type: textarea
   attributes:
     label: "Description"
-    description: "Write what happened and what you expected to happen here."
     placeholder: "Type Here"
   validations:
     required: true
 - type: textarea
   attributes:
     label: "Steps to Reproduce"
-    description: "Create a bulleted list of steps you took to produce the bug."
     placeholder: "Type Here"
   validations:
     required: true
 - type: textarea
   attributes:
     label: "Other Mod(s) Involved"
-    description: "List other mods involved in the bug here."
     placeholder: "Type Here"
   validations:
     required: false
 - type: textarea
   attributes:
     label: "Suspected Cause"
-    description: "If you know what could be causing this bug, describe it here."
     placeholder: "Type Here"
   validations:
     required: false
 - type: textarea
   attributes:
     label: "Log(s)"
-    description: "Upload any relevant logs to a site such as https://pastebin.com or https://gist.github.com, and put any links here."
+    description: "**Don't** paste your logs here. Upload them to https://mclo.gs and link that here."
     placeholder: "Type Here"
   validations:
     required: false

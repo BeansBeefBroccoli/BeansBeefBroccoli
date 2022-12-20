@@ -6,8 +6,8 @@
 
 - :wave: Hi, I’m BeansBeefBroccoli.
 - :eyes: I’m interested in Minecraft. (Resource Packs, Datapacks, Mods)
-- :busts_in_silhouette: I'm not looking to collaborate on anything right now, but maybe I'll change this later.
-- :left_speech_bubble: You can either contact me on [my Discord server](https://discord.com/invite/4yfdME5QjC), or send me a DM at BeansBeefBroccoli#1624.
+- :busts_in_silhouette: I don't have time to collaborate on anything right now, but this may change.
+- :left_speech_bubble: You can contact me on [my Discord server](https://discord.com/invite/4yfdME5QjC).
 
 [![Stats](https://github-readme-stats.vercel.app/api?username=BeansBeefBroccoli&show_icons=true&theme=dark)](https://github.com/BeansBeefBroccoli)
 

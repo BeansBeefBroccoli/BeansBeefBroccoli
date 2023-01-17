@@ -1,5 +1,11 @@
-.classpath
 *.DS_Store
+*.hprof
+*.iml
+*.ipr
+*.iws
+*.jfr
+*.launch
+.classpath
 .gitattributes
 .gradle/
 .idea/
@@ -7,12 +13,6 @@
 .project
 .settings/
 .vscode/
-*.hprof
-*.iml
-*.ipr
-*.iws
-*.jfr
-*.launch
 bin/
 build/
 classes/

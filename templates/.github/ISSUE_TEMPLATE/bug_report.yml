@@ -14,7 +14,7 @@ body:
       - The bug isn't from vanilla or from another mod
 - type: dropdown
   attributes:
-    label: "Operating System"
+    label: "Operating System(s)"
     multiple: true
     options:
     - "Windows"

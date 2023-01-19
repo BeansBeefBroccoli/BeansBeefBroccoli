@@ -2,81 +2,81 @@ name: Bug Report
 description: File a Bug Report
 labels: [bug]
 assignees:
-    - "-----" # Mod Dev
+  - "-----" # Mod Dev
 body:
 - type: markdown
-    attributes:
-        value: |
-            Before submitting a bug report, please make sure that:
-            - The bug hasn't already been reported
-            - You've filled out this form to the best of your ability
-            - This issue has a descriptive title
-            - The bug is from this mod
+  attributes:
+    value: |
+      Before submitting a bug report, please make sure that:
+      - The bug hasn't already been reported
+      - You've filled out this form to the best of your ability
+      - This issue has a descriptive title
+      - The bug is from this mod
 - type: dropdown
-    attributes:
-        label: "Operating System(s)"
-        multiple: true
-        options:
-        - "Windows"
-        - "Linux"
-        - "macOS"
-        - "Other"
-    validations:
-        required: true
+  attributes:
+    label: "Operating System(s)"
+    multiple: true
+    options:
+    - "Windows"
+    - "Linux"
+    - "macOS"
+    - "Other"
+  validations:
+    required: true
 - type: input
-    attributes:
-        label: "Minecraft Version"
-        placeholder: "Type Here"
-    validations:
-        required: true
+  attributes:
+    label: "Minecraft Version"
+    placeholder: "Type Here"
+  validations:
+    required: true
 - type: input
-    attributes:
-        label: "----- Version" # Mod Loader
-        placeholder: "Type Here"
-    validations:
-        required: true
+  attributes:
+    label: "----- Version" # Mod Loader
+    placeholder: "Type Here"
+  validations:
+    required: true
 - type: input
-    attributes:
-        label: "----- Version" # Mod Name
-        placeholder: "Type Here"
-    validations:
-        required: true
+  attributes:
+    label: "----- Version" # Mod Name
+    placeholder: "Type Here"
+  validations:
+    required: true
 - type: dropdown
-    attributes:
-        label: "Singleplayer or Multiplayer"
-        options:
-        - "Singleplayer"
-        - "Multiplayer"
-    validations:
-        required: true
+  attributes:
+    label: "Singleplayer or Multiplayer"
+    options:
+    - "Singleplayer"
+    - "Multiplayer"
+  validations:
+    required: true
 - type: textarea
-    attributes:
-        label: "Description"
-        placeholder: "Type Here"
-    validations:
-        required: true
+  attributes:
+    label: "Description"
+    placeholder: "Type Here"
+  validations:
+    required: true
 - type: textarea
-    attributes:
-        label: "Steps to Reproduce"
-        placeholder: "Type Here"
-    validations:
-        required: true
+  attributes:
+    label: "Steps to Reproduce"
+    placeholder: "Type Here"
+  validations:
+    required: true
 - type: textarea
-    attributes:
-        label: "Other Mods Involved"
-        placeholder: "Type Here"
-    validations:
-        required: false
+  attributes:
+    label: "Other Mods Involved"
+    placeholder: "Type Here"
+  validations:
+    required: false
 - type: textarea
-    attributes:
-        label: "Suspected Cause"
-        placeholder: "Type Here"
-    validations:
-        required: false
+  attributes:
+    label: "Suspected Cause"
+    placeholder: "Type Here"
+  validations:
+    required: false
 - type: textarea
-    attributes:
-        label: "Log(s)"
-        description: "**Don't** paste your logs here. Upload them to https://mclo.gs and link that here."
-        placeholder: "Type Here"
-    validations:
-        required: false
+  attributes:
+    label: "Log(s)"
+    description: "**Don't** paste your logs here. Upload them to https://mclo.gs and link that here."
+    placeholder: "Type Here"
+  validations:
+    required: false
